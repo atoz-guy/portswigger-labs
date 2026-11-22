@@ -12,7 +12,7 @@
 
 ## 1. Understand
 
-### What is SSRF?
+### What is SSRF? 
 
 Server-Side Request Forgery (SSRF) occurs when an attacker manipulates an application into making requests to unintended destinations.
 
