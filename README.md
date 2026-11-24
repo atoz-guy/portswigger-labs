@@ -16,6 +16,6 @@ Each write-up follows the same investigation method:
 |---|---|---|---|
 | SSRF | [Lab 01: Basic SSRF against the local server](SSRF/Lab01-Basic-SSRF/README.md) | Apprentice | ✅ Solved |
 
-## Disclaimer
+## Disclaimer 
 
 All testing was performed against PortSwigger's intentionally vulnerable lab environments for educational purposes.
