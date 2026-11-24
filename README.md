@@ -8,7 +8,7 @@ Each write-up follows the same investigation method:
 2. **Observe**: the normal request and response
 3. **Hypothesize**: what might be exploitable and why
 4. **Test and Record Evidence**: each test with its actual result
-5. **Conclude and Reflect**: root cause, risk, remediation and lessons learned 
+5. **Conclude and Reflect**: root cause, risk, remediation and lessons learned  
 
 ## Progress
 
