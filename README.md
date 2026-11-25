@@ -15,6 +15,7 @@ Each write-up follows the same investigation method:
 | Topic | Lab | Level | Status |
 |---|---|---|---|
 | SSRF | [Lab 01: Basic SSRF against the local server](SSRF/Lab01-Basic-SSRF/README.md) | Apprentice | ✅ Solved |
+| SSRF | [Lab 02: Basic SSRF against another back-end system](SSRF/Lab02-Basic-SSRF-Backend/README.md) | Apprentice | ✅ Solved |
 
 ## Disclaimer 
 
